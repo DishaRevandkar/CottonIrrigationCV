@@ -1,4 +1,4 @@
-Computer Vision Project for Cotton Image Classification
+**Computer Vision Project for Cotton Image Classification**
 
 Overview
 
